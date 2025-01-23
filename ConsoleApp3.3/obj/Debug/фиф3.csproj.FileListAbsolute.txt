@@ -1,0 +1,7 @@
+C:\Users\Пользователь\Documents\фиф3\bin\Debug\фиф3.exe.config
+C:\Users\Пользователь\Documents\фиф3\bin\Debug\фиф3.exe
+C:\Users\Пользователь\Documents\фиф3\bin\Debug\фиф3.pdb
+C:\Users\Пользователь\Documents\фиф3\obj\Debug\фиф3.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\фиф3\obj\Debug\фиф3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\фиф3\obj\Debug\фиф3.exe
+C:\Users\Пользователь\Documents\фиф3\obj\Debug\фиф3.pdb
