@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ПМ_01\task\ConsoleApp31\bin\Debug\ConsoleApp31.exe.config
+C:\Users\User\Desktop\ПМ_01\task\ConsoleApp31\bin\Debug\ConsoleApp31.exe
+C:\Users\User\Desktop\ПМ_01\task\ConsoleApp31\bin\Debug\ConsoleApp31.pdb
+C:\Users\User\Desktop\ПМ_01\task\ConsoleApp31\obj\Debug\ConsoleApp31.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ПМ_01\task\ConsoleApp31\obj\Debug\ConsoleApp31.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ПМ_01\task\ConsoleApp31\obj\Debug\ConsoleApp31.exe
+C:\Users\User\Desktop\ПМ_01\task\ConsoleApp31\obj\Debug\ConsoleApp31.pdb
